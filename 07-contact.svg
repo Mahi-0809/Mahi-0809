@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Letters to the Editor — contact">
+  <rect width="1200" height="360" fill="#f6f3ec"></rect>
+  <rect x="40" y="40" width="320" height="24" fill="#0a0a0a"></rect>
+  <text x="200" y="58" font-family="ui-monospace, monospace" font-size="13" fill="#f6f3ec" text-anchor="middle" letter-spacing="4">SECTION E · LETTERS TO EDITOR</text>
+
+  <text x="40" y="128" font-family="&#39;Times New Roman&#39;, Georgia, serif" font-weight="900" font-size="68" fill="#0a0a0a" letter-spacing="-2">REPLY TO THE EDITOR.</text>
+  <text x="40" y="160" font-family="&#39;Times New Roman&#39;, serif" font-style="italic" font-size="20" fill="#0a0a0a">All correspondence read · printed letters subject to editorial discretion</text>
+  <rect x="40" y="180" width="1120" height="2" fill="#0a0a0a"></rect>
+
+  
+  <g font-family="ui-monospace, monospace" font-size="14" fill="#0a0a0a" letter-spacing="2">
+    <g transform="translate(40,210)">
+      <rect width="260" height="120" fill="none" stroke="#0a0a0a" stroke-width="2"></rect>
+      <rect width="260" height="32" fill="#0a0a0a"></rect>
+      <text x="130" y="22" fill="#f6f3ec" text-anchor="middle">EMAIL</text>
+      <text x="130" y="78" text-anchor="middle">mahi@example.com</text>
+      <text x="130" y="102" text-anchor="middle" font-size="10" letter-spacing="3">★ POSTMARKED DAILY</text>
+    </g>
+    <g transform="translate(320,210)">
+      <rect width="260" height="120" fill="none" stroke="#0a0a0a" stroke-width="2"></rect>
+      <rect width="260" height="32" fill="#0a0a0a"></rect>
+      <text x="130" y="22" fill="#f6f3ec" text-anchor="middle">LINKEDIN</text>
+      <text x="130" y="78" text-anchor="middle">linkedin/in/mahi</text>
+      <text x="130" y="102" text-anchor="middle" font-size="10" letter-spacing="3">★ PROFESSIONAL DESK</text>
+    </g>
+    <g transform="translate(600,210)">
+      <rect width="260" height="120" fill="none" stroke="#0a0a0a" stroke-width="2"></rect>
+      <rect width="260" height="32" fill="#0a0a0a"></rect>
+      <text x="130" y="22" fill="#f6f3ec" text-anchor="middle">GITHUB</text>
+      <text x="130" y="78" text-anchor="middle">github/Mahi-0809</text>
+      <text x="130" y="102" text-anchor="middle" font-size="10" letter-spacing="3">★ COMMITS ARCHIVED</text>
+    </g>
+    <g transform="translate(880,210)">
+      <rect width="260" height="120" fill="none" stroke="#0a0a0a" stroke-width="2"></rect>
+      <rect width="260" height="32" fill="#0a0a0a"></rect>
+      <text x="130" y="22" fill="#f6f3ec" text-anchor="middle">PORTFOLIO</text>
+      <text x="130" y="78" text-anchor="middle">mahi.studio</text>
+      <text x="130" y="102" text-anchor="middle" font-size="10" letter-spacing="3">★ STUDIO ON THE WEB</text>
+    </g>
+  </g>
+</svg>

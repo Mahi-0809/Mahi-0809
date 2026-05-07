@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Front page lead">
+  <rect width="1200" height="220" fill="#f6f3ec"></rect>
+  
+  <text x="600" y="100" font-family="&#39;Times New Roman&#39;, Georgia, serif" font-weight="900" font-size="92" fill="#0a0a0a" text-anchor="middle" letter-spacing="-3">PORTFOLIO IN PRINT.</text>
+  <text x="600" y="156" font-family="&#39;Times New Roman&#39;, serif" font-style="italic" font-size="24" fill="#0a0a0a" text-anchor="middle">DEVELOPER · DESIGNER · MACHINE-LEARNING ENTHUSIAST</text>
+  
+  <rect x="40" y="178" width="1120" height="28" fill="#0a0a0a"></rect>
+  <text x="600" y="198" font-family="ui-monospace, monospace" font-size="13" fill="#f6f3ec" text-anchor="middle" letter-spacing="4">★  BREAKING  ·  NEW WORK FILED DAILY  ·  TIPS WELCOME  ·  REPLY TO EDITOR  ★</text>
+</svg>

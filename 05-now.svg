@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-label="Now &amp; Next — editorial column">
+  <rect width="1200" height="480" fill="#f6f3ec"></rect>
+  <rect x="40" y="40" width="280" height="24" fill="#0a0a0a"></rect>
+  <text x="180" y="58" font-family="ui-monospace, monospace" font-size="13" fill="#f6f3ec" text-anchor="middle" letter-spacing="4">SECTION C · EDITORIAL</text>
+
+  <text x="40" y="128" font-family="&#39;Times New Roman&#39;, Georgia, serif" font-weight="900" font-size="68" fill="#0a0a0a" letter-spacing="-2">NOW &amp; NEXT.</text>
+  <text x="40" y="160" font-family="&#39;Times New Roman&#39;, serif" font-style="italic" font-size="20" fill="#0a0a0a">A column on what is on the desk this week, and what waits on the next.</text>
+  <rect x="40" y="180" width="1120" height="2" fill="#0a0a0a"></rect>
+
+  
+  <g font-family="&#39;Times New Roman&#39;, Georgia, serif" font-size="18" fill="#0a0a0a">
+    
+    <text x="40" y="226" font-weight="900" font-size="28" letter-spacing="-1">ON THE DESK</text>
+    <line x1="40" y1="240" x2="560" y2="240" stroke="#0a0a0a"></line>
+    <text x="40" y="276">— Studying machine-learning fundamentals,</text>
+    <text x="40" y="302">  with notebooks kept the old-fashioned way.</text>
+    <text x="40" y="338">— Sketching design systems for personal</text>
+    <text x="40" y="364">  projects; the hand still goes first.</text>
+    <text x="40" y="400">— Building small, sharp utilities in Python.</text>
+
+    
+    <text x="620" y="226" font-weight="900" font-size="28" letter-spacing="-1">UPCOMING EDITIONS</text>
+    <line x1="620" y1="240" x2="1160" y2="240" stroke="#0a0a0a"></line>
+    <text x="620" y="276">☐ A model trained on something I care about.</text>
+    <text x="620" y="306">☐ A piece of software I am proud to ship.</text>
+    <text x="620" y="336">☐ A design with a strong opinion attached.</text>
+    <text x="620" y="366">☐ A README that does not lie.</text>
+  </g>
+</svg>

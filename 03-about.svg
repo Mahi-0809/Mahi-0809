@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="About — front page article">
+  <rect width="1200" height="560" fill="#f6f3ec"></rect>
+  
+  <rect x="40" y="40" width="280" height="24" fill="#0a0a0a"></rect>
+  <text x="180" y="58" font-family="ui-monospace, monospace" font-size="13" fill="#f6f3ec" text-anchor="middle" letter-spacing="4">SECTION A · FRONT PAGE</text>
+  
+  <text x="40" y="130" font-family="&#39;Times New Roman&#39;, Georgia, serif" font-weight="900" font-size="68" fill="#0a0a0a" letter-spacing="-2">ABOUT THE WRITER.</text>
+  <text x="40" y="166" font-family="&#39;Times New Roman&#39;, serif" font-style="italic" font-size="20" fill="#0a0a0a">A correspondent&#39;s note from the editor&#39;s desk · filed under Portfolio</text>
+  
+  <rect x="40" y="184" width="1120" height="2" fill="#0a0a0a"></rect>
+
+  
+  <g font-family="&#39;Times New Roman&#39;, Georgia, serif" font-size="18" fill="#0a0a0a">
+    
+    <text x="40" y="232" font-family="&#39;Times New Roman&#39;, serif" font-weight="900" font-size="56" fill="#0a0a0a">M</text>
+    <g>
+      <text x="92" y="232">AHI is a developer and designer who works at the</text>
+      <text x="40" y="260">crossroads of machine learning and craft. The brief is</text>
+      <text x="40" y="288">simple: build the system, then make it beautiful — never</text>
+      <text x="40" y="316">in that order alone. Today&#39;s edition catalogues the tools,</text>
+      <text x="40" y="344">interests, and current preoccupations of the writer.</text>
+    </g>
+
+    
+    <g>
+      <text x="620" y="232" font-style="italic" font-weight="bold">FILED INTERESTS</text>
+      <text x="620" y="262">— Machine learning &amp; applied AI</text>
+      <text x="620" y="288">— Visual &amp; interaction design</text>
+      <text x="620" y="314">— Full-stack systems with care taken</text>
+      <text x="620" y="340">— Database architecture &amp; data craft</text>
+      <text x="620" y="366">— Side-projects that compound quietly</text>
+    </g>
+  </g>
+
+  
+  <rect x="40" y="408" width="1120" height="2" fill="#0a0a0a"></rect>
+  <rect x="40" y="414" width="1120" height="6" fill="#0a0a0a"></rect>
+  <text x="600" y="478" font-family="&#39;Times New Roman&#39;, serif" font-style="italic" font-weight="bold" font-size="34" fill="#0a0a0a" text-anchor="middle">&#34;Build the system, then make it beautiful.&#34;</text>
+  <text x="600" y="510" font-family="ui-monospace, monospace" font-size="12" fill="#0a0a0a" text-anchor="middle" letter-spacing="3">— THE WRITER, IN CONVERSATION WITH HIMSELF</text>
+  <rect x="40" y="528" width="1120" height="6" fill="#0a0a0a"></rect>
+  <rect x="40" y="540" width="1120" height="2" fill="#0a0a0a"></rect>
+</svg>

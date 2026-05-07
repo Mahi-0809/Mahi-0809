@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Colophon">
+  <rect width="1200" height="160" fill="#f6f3ec"></rect>
+  <rect x="40" y="30" width="1120" height="6" fill="#0a0a0a"></rect>
+  <rect x="40" y="42" width="1120" height="1" fill="#0a0a0a"></rect>
+  <text x="600" y="92" font-family="&#39;Times New Roman&#39;, serif" font-style="italic" font-size="22" fill="#0a0a0a" text-anchor="middle">Set in Times &amp; Mono · printed from cold type · all the news fit to commit.</text>
+  <text x="600" y="124" font-family="ui-monospace, monospace" font-size="12" fill="#0a0a0a" text-anchor="middle" letter-spacing="4">© MAHI-0809 · MMXXVI · ALL EDITIONS RESERVED</text>
+  <rect x="40" y="138" width="1120" height="1" fill="#0a0a0a"></rect>
+  <rect x="40" y="144" width="1120" height="6" fill="#0a0a0a"></rect>
+</svg>

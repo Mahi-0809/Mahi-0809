@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="The Mahi Gazette — masthead">
+  <rect width="1200" height="360" fill="#f6f3ec"></rect>
+  
+  <rect x="40" y="40" width="1120" height="6" fill="#0a0a0a"></rect>
+  <rect x="40" y="52" width="1120" height="1" fill="#0a0a0a"></rect>
+  
+  <g font-family="ui-monospace, &#39;SF Mono&#39;, Menlo, monospace" font-size="13" fill="#0a0a0a" letter-spacing="2">
+    <text x="56" y="32">VOL. I · NO. 01 · MMXXVI</text>
+    <text x="600" y="32" text-anchor="middle">·  THE INDEPENDENT DAILY  ·</text>
+    <text x="1144" y="32" text-anchor="end">PRICE: ONE COMMIT</text>
+  </g>
+  
+  <text x="600" y="180" font-family="&#39;Times New Roman&#39;, Georgia, serif" font-weight="900" font-size="148" fill="#0a0a0a" text-anchor="middle" letter-spacing="-4">THE MAHI GAZETTE</text>
+  
+  <text x="600" y="232" font-family="&#39;Times New Roman&#39;, serif" font-style="italic" font-size="26" fill="#0a0a0a" text-anchor="middle">— a portfolio set in cold type and louder ink —</text>
+  
+  <rect x="40" y="270" width="1120" height="1" fill="#0a0a0a"></rect>
+  <rect x="40" y="276" width="1120" height="6" fill="#0a0a0a"></rect>
+  
+  <g font-family="ui-monospace, monospace" font-size="13" fill="#0a0a0a" letter-spacing="2">
+    <text x="56" y="312">EDITION ····· ACTIVE DEVELOPMENT</text>
+    <text x="600" y="312" text-anchor="middle">FILED FROM THE NEWSROOM OF MAHI-0809</text>
+    <text x="1144" y="312" text-anchor="end">SECTION ····· PORTFOLIO</text>
+  </g>
+  <rect x="40" y="328" width="1120" height="1" fill="#0a0a0a"></rect>
+</svg>
