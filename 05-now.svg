@@ -1,29 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-label="Now &amp; Next — editorial column">
-  <rect width="1200" height="480" fill="#f6f3ec"></rect>
-  <rect x="40" y="40" width="280" height="24" fill="#0a0a0a"></rect>
-  <text x="180" y="58" font-family="ui-monospace, monospace" font-size="13" fill="#f6f3ec" text-anchor="middle" letter-spacing="4">SECTION C · EDITORIAL</text>
-
-  <text x="40" y="128" font-family="&#39;Times New Roman&#39;, Georgia, serif" font-weight="900" font-size="68" fill="#0a0a0a" letter-spacing="-2">NOW &amp; NEXT.</text>
-  <text x="40" y="160" font-family="&#39;Times New Roman&#39;, serif" font-style="italic" font-size="20" fill="#0a0a0a">A column on what is on the desk this week, and what waits on the next.</text>
-  <rect x="40" y="180" width="1120" height="2" fill="#0a0a0a"></rect>
-
-  
-  <g font-family="&#39;Times New Roman&#39;, Georgia, serif" font-size="18" fill="#0a0a0a">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440">
+    <rect width="1200" height="440" fill="#FFF8F0"/>
     
-    <text x="40" y="226" font-weight="900" font-size="28" letter-spacing="-1">ON THE DESK</text>
-    <line x1="40" y1="240" x2="560" y2="240" stroke="#0a0a0a"></line>
-    <text x="40" y="276">— Studying machine-learning fundamentals,</text>
-    <text x="40" y="302">  with notebooks kept the old-fashioned way.</text>
-    <text x="40" y="338">— Sketching design systems for personal</text>
-    <text x="40" y="364">  projects; the hand still goes first.</text>
-    <text x="40" y="400">— Building small, sharp utilities in Python.</text>
-
+    <!-- Heading & Subheading -->
+    <text x="40" y="70" font-family="Georgia, 'Times New Roman', serif" font-weight="900" font-size="52" fill="#6B1D2A" letter-spacing="-1">CONTRIBUTIONS &amp; PROJECTS</text>
+    <text x="40" y="100" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#6B1D2A" opacity="0.6">Total contributions and pinned repositories</text>
     
-    <text x="620" y="226" font-weight="900" font-size="28" letter-spacing="-1">UPCOMING EDITIONS</text>
-    <line x1="620" y1="240" x2="1160" y2="240" stroke="#0a0a0a"></line>
-    <text x="620" y="276">☐ A model trained on something I care about.</text>
-    <text x="620" y="306">☐ A piece of software I am proud to ship.</text>
-    <text x="620" y="336">☐ A design with a strong opinion attached.</text>
-    <text x="620" y="366">☐ A README that does not lie.</text>
-  </g>
+    <!-- Divider Line -->
+    <rect x="40" y="120" width="1120" height="2" fill="#6B1D2A" opacity="0.2"/>
+
+    <!-- PROJECT CARDS -->
+    <!-- Card 1 -->
+    <g transform="translate(40, 150)">
+        <rect width="360" height="240" fill="none" stroke="#6B1D2A" stroke-width="1.5" opacity="0.3" rx="4" ry="4"/>
+        <rect width="360" height="36" fill="#6B1D2A" rx="4" ry="4"/>
+        <rect y="32" width="360" height="4" fill="#6B1D2A"/>
+        <text x="180" y="24" font-family="monospace" font-size="14" fill="#FFF8F0" text-anchor="middle" letter-spacing="2">PROJECT / ONE</text>
+        
+        <text x="20" y="80" font-family="Georgia, serif" font-size="16" fill="#6B1D2A">A full-stack application built with</text>
+        <text x="20" y="105" font-family="Georgia, serif" font-size="16" fill="#6B1D2A">React and Node.js. Clean</text>
+        <text x="20" y="130" font-family="Georgia, serif" font-size="16" fill="#6B1D2A">architecture, thoughtful design.</text>
+
+        <!-- Mini Mandala -->
+        <g transform="translate(335, 215)">
+            <circle cx="0" cy="0" r="20" fill="none" stroke="#6B1D2A" stroke-width="1" opacity="0.06"/>
+            <circle cx="0" cy="0" r="14" fill="none" stroke="#6B1D2A" stroke-width="0.5" stroke-dasharray="2 2" opacity="0.06"/>
+            <circle cx="0" cy="0" r="6" fill="#6B1D2A" opacity="0.06"/>
+        </g>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(420, 150)">
+        <rect width="360" height="240" fill="none" stroke="#6B1D2A" stroke-width="1.5" opacity="0.3" rx="4" ry="4"/>
+        <rect width="360" height="36" fill="#6B1D2A" rx="4" ry="4"/>
+        <rect y="32" width="360" height="4" fill="#6B1D2A"/>
+        <text x="180" y="24" font-family="monospace" font-size="14" fill="#FFF8F0" text-anchor="middle" letter-spacing="2">PROJECT / TWO</text>
+        
+        <text x="20" y="80" font-family="Georgia, serif" font-size="16" fill="#6B1D2A">Machine learning models trained</text>
+        <text x="20" y="105" font-family="Georgia, serif" font-size="16" fill="#6B1D2A">with care. Honest results,</text>
+        <text x="20" y="130" font-family="Georgia, serif" font-size="16" fill="#6B1D2A">documented process.</text>
+
+        <!-- Mini Mandala -->
+        <g transform="translate(335, 215)">
+            <circle cx="0" cy="0" r="20" fill="none" stroke="#6B1D2A" stroke-width="1" opacity="0.06"/>
+            <circle cx="0" cy="0" r="14" fill="none" stroke="#6B1D2A" stroke-width="0.5" stroke-dasharray="2 2" opacity="0.06"/>
+            <circle cx="0" cy="0" r="6" fill="#6B1D2A" opacity="0.06"/>
+        </g>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(800, 150)">
+        <rect width="360" height="240" fill="none" stroke="#6B1D2A" stroke-width="1.5" opacity="0.3" rx="4" ry="4"/>
+        <rect width="360" height="36" fill="#6B1D2A" rx="4" ry="4"/>
+        <rect y="32" width="360" height="4" fill="#6B1D2A"/>
+        <text x="180" y="24" font-family="monospace" font-size="14" fill="#FFF8F0" text-anchor="middle" letter-spacing="2">PROJECT / THREE</text>
+        
+        <text x="20" y="80" font-family="Georgia, serif" font-size="16" fill="#6B1D2A">Design systems and visual tools.</text>
+        <text x="20" y="105" font-family="Georgia, serif" font-size="16" fill="#6B1D2A">Every pixel placed with purpose.</text>
+
+        <!-- Mini Mandala -->
+        <g transform="translate(335, 215)">
+            <circle cx="0" cy="0" r="20" fill="none" stroke="#6B1D2A" stroke-width="1" opacity="0.06"/>
+            <circle cx="0" cy="0" r="14" fill="none" stroke="#6B1D2A" stroke-width="0.5" stroke-dasharray="2 2" opacity="0.06"/>
+            <circle cx="0" cy="0" r="6" fill="#6B1D2A" opacity="0.06"/>
+        </g>
+    </g>
+
+    <!-- Small mandala top right -->
+    <g transform="translate(1100, 60)">
+        <circle cx="0" cy="0" r="40" fill="none" stroke="#6B1D2A" stroke-width="1" opacity="0.1"/>
+        <circle cx="0" cy="0" r="28" fill="none" stroke="#6B1D2A" stroke-width="0.5" stroke-dasharray="3 3" opacity="0.12"/>
+        <g stroke="#6B1D2A" stroke-width="1" fill="none" opacity="0.08">
+            <ellipse cx="0" cy="-15" rx="8" ry="3" transform="rotate(0)"/>
+            <ellipse cx="10" cy="-10" rx="8" ry="3" transform="rotate(45)"/>
+            <ellipse cx="15" cy="0" rx="8" ry="3" transform="rotate(90)"/>
+            <ellipse cx="10" cy="10" rx="8" ry="3" transform="rotate(135)"/>
+            <ellipse cx="0" cy="15" rx="8" ry="3" transform="rotate(180)"/>
+            <ellipse cx="-10" cy="10" rx="8" ry="3" transform="rotate(225)"/>
+            <ellipse cx="-15" cy="0" rx="8" ry="3" transform="rotate(270)"/>
+            <ellipse cx="-10" cy="-10" rx="8" ry="3" transform="rotate(315)"/>
+        </g>
+        <circle cx="0" cy="0" r="10" fill="#6B1D2A" opacity="0.08"/>
+    </g>
+
+    <!-- Bottom accent line -->
+    <rect x="0" y="420" width="1200" height="1.5" fill="#6B1D2A" opacity="0.15"/>
 </svg>
