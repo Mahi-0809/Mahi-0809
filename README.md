@@ -39,7 +39,7 @@
 
 <br/>
 
-<h2><i>✦ &nbsp; STATISTICS</i></h2>
+<h2><i>✦ &nbsp; STATISTICS.</i></h2>
 
 <br/>
 
